@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
+  <img src="assets/OSHW.png" alt="Open Source Hardware Logo" width="80">
+  <img src="assets/KiCad.png" alt="KiCad" width="80">
+  <img src="assets/FreeCAD.png" alt="FreeCAD" width="80">
+  <img src="assets/VScode.png" alt="Visual Studio Code" width="80">
+  <img src="assets/PlatformIO.png" alt="PlatformIO" width="80">
+  <img src="assets/Arduino.png" alt="Arduino" width="80">
 </p>
+
 
 # OpenBench Tools
 
@@ -36,6 +42,28 @@ All our projects are designed with:
 - Focus on reproducibility by makers and small labs.
 
 Our goal is to make advanced bench tools **accessible to everyone**, from beginners to experienced professionals.
+
+---
+
+## 🛠 Design & Development Tools
+
+We adopt **open-source and cross-platform tools** for the entire lifecycle of our projects:
+
+### Hardware Design
+- [KiCad](https://www.kicad.org/)  
+  Open-source EDA (Electronic Design Automation) suite used for schematic capture, PCB layout, and documentation.
+
+### Enclosure and Mechanical Design
+- [FreeCAD](https://www.freecad.org/)  
+  Open-source 3D CAD software used to design all enclosures and mechanical parts, which are made available for **3D printing**.
+
+### Firmware Development
+- [PlatformIO](https://platformio.org/)  
+  Modern and powerful embedded development platform supporting multiple boards, frameworks, and toolchains.
+- [Arduino](https://arduino.cc/)  
+  Widely adopted and beginner-friendly firmware framework, ensuring easy adoption by the community.
+- [Visual Studio Code](https://code.visualstudio.com/)  
+  Cross-platform code editor, used with PlatformIO and Arduino for streamlined development.
 
 ---
 
