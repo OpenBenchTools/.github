@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
+  <a href="https://oshwa.org/">
+    <img src="assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
+  </a>
 </p>
 
 <p align="center">
