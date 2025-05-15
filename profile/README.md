@@ -100,7 +100,7 @@ Provide accessible, robust, and open-source tools to make life easier on electro
 
 
 <p align="center">
-  <a href="https://ohwr.org/cern_ohl_w_v2.txt">
+  <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-CERN--OHL--W-blue.svg" alt="CERN-OHL-W License">
   </a>
 </p>
