@@ -4,7 +4,7 @@
 
 # OpenBench Tools
 
-**Open Source Tools for your electronics workbench.**  
+**DIY Open Source Tools for your electronics workbench.**  
 Practical, modular, and accessible projects for makers, students, and professionals.
 
 ---
