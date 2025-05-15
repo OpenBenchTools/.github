@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/OSHW.png" alt="OpenBench Tools Logo" width="150">
+  <img src="profile/assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
 </p>
 
 # OpenBench Tools
