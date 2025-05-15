@@ -1,47 +1,48 @@
 
 # OpenBench Tools
 
-**Ferramentas Open Source para sua bancada de eletrônica.**  
-Projetos práticos, modulares e acessíveis para makers, estudantes e profissionais.
+**Open Source Tools for your electronics workbench.**  
+Practical, modular, and accessible projects for makers, students, and professionals.
 
 ---
 
-## 🚀 Nossos Projetos
+## 🚀 Featured Projects
 
-### [OB-PowerSupply](https://github.com/openbenchtools/OB-PowerSupply)
-Fonte de bancada ajustável 0-30V com corrente limitada.
+### OB-PowerSupply
+Adjustable bench power supply 0-30V with current limiting.
 
-### [OB-Load](https://github.com/openbenchtools/OB-Load)
-Carga eletrônica controlada com display.
+### OB-Load
+Electronic load with display control.
 
-### [OB-FunctionGenerator](https://github.com/openbenchtools/OB-FunctionGenerator)
-Gerador de funções básico (Seno, Quadrada, Triangular).
+### OB-FunctionGenerator
+Basic function generator (Sine, Square, Triangle).
 
-### [OB-Logger](https://github.com/openbenchtools/OB-Logger)
-Logger de tensão e corrente com armazenamento em SD ou USB.
+### OB-Logger
+Voltage and current logger with SD or USB storage.
 
-> Veja todos os projetos em nossa [Organização no GitHub](https://github.com/openbenchtools)
-
----
-
-## 🤝 Como Contribuir
-
-- **Use nossos projetos.**
-- **Compartilhe feedbacks, melhorias e bugs.**
-- **Abra PRs com correções ou novas ideias.**
-- **Sugira novos projetos via [Issues](https://github.com/openbenchtools/OB-PowerSupply/issues).**
+> See all projects on our GitHub Organization
 
 ---
 
-## 💡 Missão
+## 🤝 How to Contribute
 
-Promover ferramentas acessíveis, robustas e open-source para facilitar a vida em bancadas de eletrônica ao redor do mundo.
+- **Use our projects and share your feedback.**
+- **Report bugs or suggest improvements via Issues.**
+- **Contribute with new projects and ideas.**
 
 ---
 
-## 📜 Licenciamento
+## 💡 Mission
 
-Todos os projetos são liberados sob licenças permissivas como **MIT**, **CERN OHL**, ou equivalentes.  
-Uso livre para hobby, ensino ou indústria.
+Provide accessible, robust, and open-source tools to make life easier on electronics workbenches worldwide.
+
+---
+
+## 📜 Licensing
+
+All projects are released exclusively under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)**.  
+Free to use, modify, and distribute under the terms of this license.
+
+Read the full license text at: [CERN-OHL-W v2](https://ohwr.org/cern_ohl_w_v2.txt)
 
 ---
