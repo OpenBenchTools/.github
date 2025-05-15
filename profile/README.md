@@ -43,6 +43,6 @@ Provide accessible, robust, and open-source tools to make life easier on electro
 All projects are released exclusively under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)**.  
 Free to use, modify, and distribute under the terms of this license.
 
-Read the full license text at: [CERN-OHL-W v2](https://ohwr.org/cern_ohl_w_v2.txt)
+Read the full license text at: [CERN-OHL-W v2](/profile/LICENSE)
 
 ---
