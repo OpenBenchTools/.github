@@ -1,19 +1,34 @@
 <p align="center">
-  <img src="assets/OSHW.png" alt="Open Source Hardware Logo" width="80">
-  <img src="assets/KiCad.png" alt="KiCad" width="80">
-  <img src="assets/FreeCAD.png" alt="FreeCAD" width="80">
-  <img src="assets/VScode.png" alt="Visual Studio Code" width="80">
-  <img src="assets/PlatformIO.png" alt="PlatformIO" width="80">
-  <img src="assets/Arduino.png" alt="Arduino" width="80">
+  <img src="assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
+</p>
+
+<p align="center">
+  <a href="https://www.kicad.org/">
+    <img src="assets/KiCad.png" alt="KiCad" width="180">
+  </a>
+  <a href="https://www.freecad.org/">
+    <img src="assets/FreeCAD.png" alt="FreeCAD" width="240">
+  </a>
+  <br><br>
+  <a href="https://code.visualstudio.com/">
+    <img src="assets/VScode.png" alt="Visual Studio Code" width="80">
+  </a>
+  <a href="https://platformio.org/">
+    <img src="assets/PlatformIO.png" alt="PlatformIO" width="80">
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="assets/Arduino.png" alt="Arduino" width="80">
+  </a>
 </p>
 
 
-# OpenBench Tools
+<h1 align="center">OpenBench Tools</h1>
 
-**DIY Open Source Tools for your electronics workbench.**  
-Practical, modular, and accessible projects for makers, students, and professionals.
+<p align="center">
+  <strong>DIY Open Source Tools for your electronics workbench.</strong><br>
+  Practical, modular, and accessible projects for makers, students, and professionals.
+</p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -81,11 +96,14 @@ Provide accessible, robust, and open-source tools to make life easier on electro
 
 ---
 
-## 📜 License
 
-All projects are released exclusively under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)**.  
-Free to use, modify, and distribute under the terms of this license.
+<p align="center">
+  <a href="https://ohwr.org/cern_ohl_w_v2.txt">
+    <img src="https://img.shields.io/badge/License-CERN--OHL--W-blue.svg" alt="CERN-OHL-W License">
+  </a>
+</p>
 
-Read the full license text at: [CERN-OHL-W v2](/profile/LICENSE)
+<p align="center">
+  Released under the <a href="https://ohwr.org/cern_ohl_w_v2.txt">CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)</a>
+</p>
 
----
