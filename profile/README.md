@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile/OSHW.png" alt="OpenBench Tools Logo" width="150">
+</p>
 
 # OpenBench Tools
 
@@ -24,11 +27,23 @@ Voltage and current logger with SD or USB storage.
 
 ---
 
+## 🔧 Simplicity First
+
+At OpenBench Tools, we believe that open-source hardware should not only be functional but also **simple to build, assemble, and understand**.  
+All our projects are designed with:
+- Common and easy-to-find components.
+- Clear and minimal documentation.
+- Focus on reproducibility by makers and small labs.
+
+Our goal is to make advanced bench tools **accessible to everyone**, from beginners to experienced professionals.
+
+---
+
 ## 🤝 How to Contribute
 
-- **Use our projects and share your feedback.**
-- **Report bugs or suggest improvements via Issues.**
-- **Contribute with new projects and ideas.**
+- Use our projects and share your feedback.
+- Report bugs or suggest improvements via Issues.
+- Contribute with new projects and ideas.
 
 ---
 
@@ -38,7 +53,7 @@ Provide accessible, robust, and open-source tools to make life easier on electro
 
 ---
 
-## 📜 Licensing
+## 📜 License
 
 All projects are released exclusively under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)**.  
 Free to use, modify, and distribute under the terms of this license.
