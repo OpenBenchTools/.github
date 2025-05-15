@@ -106,6 +106,6 @@ Provide accessible, robust, and open-source tools to make life easier on electro
 </p>
 
 <p align="center">
-  Released under the <a href="https://ohwr.org/cern_ohl_w_v2.txt">CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)</a>
+  Released under the <a href="LICENSE">CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)</a>
 </p>
 
