@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oshwa.org/">
-    <img src="assets/OSHW.png" alt="OpenBench Tools Logo" width="150">
+    <img src="assets/OSHW.png" alt="Open Bench Tools Logo" width="150">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 </p>
 
 
-<h1 align="center">OpenBench Tools</h1>
+<h1 align="center">Open Bench Tools</h1>
 
 <p align="center">
   <strong>DIY Open Source Tools for your electronics workbench.</strong><br>
@@ -52,7 +52,7 @@ Voltage and current logger with SD or USB storage.
 
 ## 🔧 Simplicity First
 
-At OpenBench Tools, we believe that open-source hardware should not only be functional but also **simple to build, assemble, and understand**.  
+At Open Bench Tools, we believe that open-source hardware should not only be functional but also **simple to build, assemble, and understand**.  
 All our projects are designed with:
 - Common and easy-to-find components.
 - Clear and minimal documentation.
