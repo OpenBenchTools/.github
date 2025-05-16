@@ -28,23 +28,30 @@
 
 <p align="center">
   <strong>DIY Open Source Tools for your electronics workbench.</strong><br>
-  Practical, modular, and accessible projects for makers, students, and professionals.
+  Practical, modular, and accessible projects for makers, students, and professionals.<br>
+  <em>Our mission is to provide accessible, robust, and open-source tools to make life easier on electronics workbenches worldwide.</em>
 </p>
-
+</br>
 
 ## 🚀 Featured Projects
 
-### OB-PowerSupply
-Adjustable bench power supply 0-30V with current limiting.
+### Power Tools
+- **OB-PowerSupply** - Adjustable bench power supply (0-30V) with current limiting
+- **OB-Load** - Precision electronic load with display control
+- **OB-SolderingIron** - Open-source temperature-controlled soldering station
 
-### OB-Load
-Electronic load with display control.
+### Measurement Tools
+- **OB-Meter** - Multi-function bench meter (voltage, current, resistance)
+- **OB-Scope** - Compact oscilloscope for basic measurements
+- **OB-Logger** - Data logger with SD/USB storage
 
-### OB-FunctionGenerator
-Basic function generator (Sine, Square, Triangle).
+### Signal Tools
+- **OB-Gen** - Function generator (sine/square/triangle waves)
+- **OB-Switch** - Smart relay switching module with IoT control
 
-### OB-Logger
-Voltage and current logger with SD or USB storage.
+### Workbench Organization
+- **OB-Drawers** - Modular workbench drawer system
+- **OB-Storage** - Stackable component bins with labeling system
 
 > See all projects on our GitHub Organization
 
@@ -86,18 +93,20 @@ We adopt **open-source and cross-platform tools** for the entire lifecycle of ou
 
 ## 🤝 How to Contribute
 
-- Use our projects and share your feedback.
-- Report bugs or suggest improvements via Issues.
-- Contribute with new projects and ideas.
+Whether you're a beginner or an experienced maker, your contribution is welcome! Here are some great ways to get involved:
+
+- Use our projects and [share](mailto:tiagodepaulasilva@gmail.com) photos, demos, or feedback with us.
+- Report bugs or suggest improvements by opening Issues.
+- Propose new project ideas or help expand existing ones.
+- Improve schematics, PCB layouts, or BOMs (cleaner design, cheaper parts, better sourcing).
+- Create educational content — explain how a circuit works, introduce components, or break down key concepts.
+- Design and share mechanical parts like enclosures, panel cutouts, or printable STLs.
+- Help write or improve documentation, build guides, and assembly instructions.
+- Translate documentation into other languages to make it accessible to more people.
+- Share your forks, modifications, or remixed versions.
+- Record short videos or timelapses of your builds or setups.
 
 ---
-
-## 💡 Mission
-
-Provide accessible, robust, and open-source tools to make life easier on electronics workbenches worldwide.
-
----
-
 
 <p align="center">
   <a href="LICENSE">
