@@ -26,12 +26,12 @@
 
 <h1 align="center">Open Bench Tools</h1>
 
-<h3 align="center"><strong>DIY Open Source Tools for your electronics workbench.</strong></h3>
-
-<h3 align="center">
+<p align="center">
+  <strong>DIY Open Source Tools for your electronics workbench.</strong><br>
   Practical, modular, and accessible projects for makers, students, and professionals.<br>
   <em>Our mission is to provide accessible, robust, and open-source tools to make life easier on electronics workbenches worldwide.</em>
-</h4>
+</p>
+</br>
 
 
 
