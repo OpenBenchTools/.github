@@ -33,9 +33,6 @@
 </p>
 </br>
 
-
-
-
 ## 🚀 Featured Projects
 
 ### Power Tools
